@@ -7,3 +7,8 @@
   for = "/data/*"
   [headers.values]
     Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/data/live/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

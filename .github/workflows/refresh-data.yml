@@ -1,0 +1,36 @@
+name: Refresh live data
+
+on:
+  schedule:
+    - cron: '17 */6 * * *' # every 6 hours (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/refresh-live.mjs
+      - name: Commit changes
+        run: |
+          git add data/live
+          if git diff --cached --quiet; then
+            echo "No new data."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh live data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push origin HEAD:main
