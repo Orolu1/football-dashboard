@@ -12,3 +12,10 @@
   for = "/data/live/*"
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
+
+# Claude Code skills live in the repo but are not part of the site.
+[[redirects]]
+  from = "/.claude/*"
+  to = "/404.html"
+  status = 404
+  force = true
