@@ -1,7 +1,7 @@
 # Static site: no build step, publish the repo root.
 [build]
   publish = "."
-  command = ""
+  command = "echo No build step - static site"
 
 [[headers]]
   for = "/data/*"
