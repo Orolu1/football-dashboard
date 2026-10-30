@@ -1,0 +1,56 @@
+league,season,file,matches,issue,goalsN,cornersN,shotsN,sotN,cardsN
+Premier League,2016/17,E0 (11)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2017/18,E0 (10)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2018/19,E0 (9)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2019/20,E0 (8)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2020/21,E0 (7)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2021/22,E0 (6)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2022/23,E0 (5)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2023/24,E0 (4)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2024/25,E0 (3)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2025/26,E0 (2)(1).csv,380,Verified file,380,380,380,380,380
+Premier League,2026/27,E0 (1)(1).csv,80,Current season (partial),80,80,80,80,80
+La Liga,2016/17,SP1 (11).csv,380,Verified file,380,380,380,380,380
+La Liga,2017/18,SP1 (10).csv,380,Verified file,380,380,380,380,380
+La Liga,2018/19,SP1 (9).csv,380,Verified file,380,380,380,380,380
+La Liga,2019/20,SP1 (8).csv,380,Verified file,380,380,380,380,380
+La Liga,2020/21,SP1 (7).csv,380,Verified file,380,380,380,380,380
+La Liga,2021/22,SP1 (6).csv,380,Verified file,380,380,380,380,380
+La Liga,2022/23,SP1 (5).csv,380,Verified file,380,380,380,380,380
+La Liga,2023/24,SP1 (4).csv,380,Verified file,380,380,380,380,380
+La Liga,2024/25,SP1 (3).csv,380,Verified file,380,380,380,380,380
+La Liga,2025/26,SP1 (2).csv,380,Verified file,380,380,380,380,380
+La Liga,2026/27,SP1 (1).csv,99,Current season (partial),99,99,99,99,99
+Serie A,2016/17,,0,SOURCE FILE MISSING,,,,,
+Serie A,2017/18,I1 (10).csv,380,Verified file,380,380,380,380,380
+Serie A,2018/19,I1 (9).csv,380,Verified file,380,380,380,380,380
+Serie A,2019/20,I1 (8).csv,380,Verified file,380,380,380,380,380
+Serie A,2020/21,I1 (7).csv,380,Verified file,380,380,380,380,380
+Serie A,2021/22,I1 (6).csv,380,Verified file,380,380,380,380,380
+Serie A,2022/23,I1 (5).csv,380,Verified file,380,380,380,380,380
+Serie A,2023/24,I1 (4).csv,380,Verified file,380,380,380,380,380
+Serie A,2024/25,I1 (3).csv,380,Verified file,380,380,380,380,380
+Serie A,2025/26,I1 (2).csv,380,Verified file,380,380,380,380,380
+Serie A,2026/27,I1 (1).csv,90,Current season (partial),90,90,90,90,90
+Bundesliga,2016/17,D1 (11).csv,306,Verified file,306,306,306,306,306
+Bundesliga,2017/18,D1 (10).csv,306,Verified file,306,306,306,306,306
+Bundesliga,2018/19,D1 (9).csv,306,Verified file,306,306,306,306,306
+Bundesliga,2019/20,D1 (8).csv,306,Verified file,306,306,306,306,306
+Bundesliga,2020/21,D1 (7).csv,306,Verified file,306,306,306,306,306
+Bundesliga,2021/22,D1 (6).csv,306,Verified file,306,306,306,306,306
+Bundesliga,2022/23,D1 (5).csv,306,Verified file,306,306,306,306,306
+Bundesliga,2023/24,D1 (4).csv,306,Verified file,306,306,306,306,306
+Bundesliga,2024/25,D1 (3).csv,306,Verified file,306,305,305,305,305
+Bundesliga,2025/26,D1 (2).csv,306,Verified file,306,306,306,306,306
+Bundesliga,2026/27,D1 (1).csv,63,Current season (partial),63,63,63,63,63
+Ligue 1,2016/17,F1 (11).csv,380,Verified file,380,379,379,379,379
+Ligue 1,2017/18,F1 (10).csv,380,Verified file,380,380,380,380,380
+Ligue 1,2018/19,F1 (9).csv,380,Verified file,380,380,380,380,380
+Ligue 1,2019/20,F1 (8).csv,279,League season curtailed at 279 matches (COVID-19),279,279,279,279,279
+Ligue 1,2020/21,F1 (7).csv,380,Verified file,380,380,380,380,380
+Ligue 1,2021/22,F1 (6).csv,380,Verified file,380,380,380,380,380
+Ligue 1,2022/23,F1 (5).csv,380,Verified file,380,380,380,380,380
+Ligue 1,2023/24,F1 (4).csv,306,Verified file,306,306,306,306,306
+Ligue 1,2024/25,F1 (3).csv,306,Verified file,306,306,306,306,306
+Ligue 1,2025/26,F1 (2).csv,306,Verified file,306,306,306,306,306
+Ligue 1,2026/27,F1 (1).csv,72,Current season (partial),72,72,72,72,72
